@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "Workouts",
-    "slug": "Workouts",
-    "scheme": "workouts",
+    "name": "react-native-fitness-app",
+    "slug": "react-native-fitness-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,11 +24,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png",
-      "bundler": "metro"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+      "favicon": "./assets/favicon.png"
+    }
   }
 }
